@@ -5,12 +5,12 @@ import pdb
 
 import decoder
 
+
 def decode_rfid_dump(json_file_obj):
 
     rfid_dump_data = json.load(json_file_obj)
 
     rfid_blocks = rfid_dump_data["blocks"]
-    
 
     # Block 1
     tray_info_index = rfid_blocks["1"][0:8]
@@ -24,7 +24,6 @@ def decode_rfid_dump(json_file_obj):
 
     print(f"Filament type: '{filament_type}' ({filament_description})")
 
-    
     # for i in range(0, 32, 2):
     #     print(f"Index: {i/2} | Byte: {(rfid_blocks['5'])[i]}{(rfid_blocks['5'])[i+1]}")
 
@@ -51,7 +50,11 @@ if __name__ == "__main__":
 
     argparse_parser = argparse.ArgumentParser()
 
-    argparse_parser.add_argument("-j", "--input-json-dump-file", type=str, required=True, help="The input JSON file to decode")
+    argparse_parser.add_argument("-j",
+                                 "--input-json-dump-file",
+                                 type=str,
+                                 required=True,
+                                 help="The input JSON file to decode")
 
     argparse_args = argparse_parser.parse_args()
 
