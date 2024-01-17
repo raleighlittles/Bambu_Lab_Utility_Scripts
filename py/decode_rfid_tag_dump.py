@@ -12,13 +12,21 @@ def decode_rfid_dump(json_file_obj):
 
     rfid_blocks = rfid_dump_data["blocks"]
 
+    # Prints the whole dump out to the console (debug only)
+    # print("-----------------------------")
+    # for values in rfid_blocks.values():
+    #     print(values)
+    # print("-----------------------------")
+
+    # Prints an entire block out, byte by byte
+
+    # print("=====================")
+    # for i in range(0, 32, 2):
+    #     print(f"Index: {i/2} | Byte: {(rfid_blocks['6'])[i]}{(rfid_blocks['6'])[i+1]}")
+    # print("=====================")
+
     # Block 1
-    #tray_info_index = rfid_blocks['1'][0:10]
-    #print(f"Tray info index: {tray_info_index}")
-
     print(decoder.decode_filament_sku(rfid_blocks['1']))
-
-
 
     # Block 2
     filament_type = decoder.decode_filament_str_field(rfid_blocks['2'])
@@ -34,9 +42,6 @@ def decode_rfid_dump(json_file_obj):
 
     print(decoder.decode_filament_color(rfid_blocks["5"]))
 
-    # for i in range(0, 32, 2):
-    #     print(f"Index: {i/2} | Byte: {(rfid_blocks['6'])[i]}{(rfid_blocks['6'])[i+1]}")
-
     print(decoder.decode_hotend_temperatures(rfid_blocks['6']))
 
     print(decoder.decode_bed_temperature(rfid_blocks['6']))
@@ -44,9 +49,6 @@ def decode_rfid_dump(json_file_obj):
     print(decoder.decode_drying_instructions(rfid_blocks['6']))
 
     print(decoder.decode_bed_plate_type(rfid_blocks['6']))
-
-    # for i in range(0, 32, 2):
-    #     print(f"Index: {i/2} | Byte: {(rfid_blocks['6'])[i]}{(rfid_blocks['6'])[i+1]}")
 
     print(decoder.decode_xcam_info(rfid_blocks['8']))
 

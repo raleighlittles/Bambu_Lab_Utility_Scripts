@@ -142,9 +142,6 @@ def decode_xcam_info(block_8_contents) -> str:
 
 def decode_spool_width(block_10_contents) -> str:
 
-    # for i in range(0, 32, 2):
-    #     print(f"Index: {i/2} | Byte: {block_10_contents[i]}{block_10_contents[i+1]}")
-
     spool_width_mm = int(
         block_10_contents[5 * 2:5 * 2 + 2] +
         block_10_contents[4 * 2:4 * 2 + 2], 16) / 100
