@@ -3,6 +3,7 @@ import sys
 import calendar
 import struct
 import pdb
+import datetime
 
 # locals
 import helper
@@ -144,11 +145,11 @@ def decode_spool_width(block_10_contents) -> str:
     # for i in range(0, 32, 2):
     #     print(f"Index: {i/2} | Byte: {block_10_contents[i]}{block_10_contents[i+1]}")
 
-    spool_width_hundreds_mm = int(
+    spool_width_mm = int(
         block_10_contents[5 * 2:5 * 2 + 2] +
-        block_10_contents[4 * 2:4 * 2 + 2], 16)
+        block_10_contents[4 * 2:4 * 2 + 2], 16) / 100
 
-    return f"Spool width: {spool_width_hundreds_mm / 100} mm"
+    return f"Spool width: {spool_width_mm} mm ({helper.convert_mm_to_inches(spool_width_mm)} inches)"
 
 
 def decode_mfg_timestamps(block_12_contents, block_13_contents) -> str:
@@ -191,6 +192,5 @@ def decode_filament_length(block_14_contents) -> str:
         block_14_contents[5 * 2:5 * 2 + 2] +
         block_14_contents[4 * 2:4 * 2 + 2], 16)
 
-    filament_length_ft = filament_length_m * 3.281
 
-    return f"Filament length: {filament_length_m} m ({round(filament_length_ft, 2)} ft)"
+    return f"Filament length: {filament_length_m} m ({helper.convert_meters_to_ft(filament_length_m)} ft)"
