@@ -16,7 +16,7 @@ def decode_filament_sku(block_1_contents) -> str:
 
     filament_sku = binascii.unhexlify(block_1_contents[0:12]).decode("unicode-escape").replace(
         "\x00", "")
-    
+
     return f"Filament SKU: {filament_sku}"
 
 
@@ -32,12 +32,14 @@ def decode_spool_weight(block_5_contents) -> str:
     # I was getting suspicious numbers (greater than 1000) when I ran this on the first dump in
     # the discord. If I used the bytes at index 9 and 10 (instead of 10 and 11, which is what
     # the documentation says), I got a reasonable number.
-    #spool_weight_grams = int(block_5_contents[4*2 : 5*2 + 2], 16)
-    spool_weight_grams = int(block_5_contents[5 * 2:5 * 2 + 2] + block_5_contents[4 * 2:4 * 2 + 2], 16)
+    # spool_weight_grams = int(block_5_contents[4*2 : 5*2 + 2], 16)
+    spool_weight_grams = int(
+        block_5_contents[5 * 2:5 * 2 + 2] + block_5_contents[4 * 2:4 * 2 + 2], 16)
 
     if spool_weight_grams < 1:
-        raise ValueError(f"Error: spool weight is an invalid value ('{spool_weight_grams}'), please verify data is correct")
-    
+        raise ValueError(
+            f"Error: spool weight is an invalid value ('{spool_weight_grams}'), please verify data is correct")
+
     spool_weight_kg = spool_weight_grams / 1000.0
 
     return f"Spool weight: {spool_weight_grams} g ({spool_weight_kg} kg)"
@@ -75,28 +77,32 @@ def decode_filament_diameter(block_5_contents) -> str:
 
 def decode_hotend_temperatures(block_6_contents) -> str:
     """
-    
-    """
-    
-    hotend_min_temp = int(block_6_contents[11 * 2: 11 * 2 + 2] + block_6_contents[10 * 2: 10 * 2 + 2], 16)
 
-    hotend_max_temp = int(block_6_contents[9 * 2: 9 * 2 + 2] + block_6_contents[8 * 2: 8 * 2 + 2], 16)
+    """
+
+    hotend_min_temp = int(
+        block_6_contents[11 * 2: 11 * 2 + 2] + block_6_contents[10 * 2: 10 * 2 + 2], 16)
+
+    hotend_max_temp = int(
+        block_6_contents[9 * 2: 9 * 2 + 2] + block_6_contents[8 * 2: 8 * 2 + 2], 16)
 
     if hotend_min_temp == hotend_max_temp:
         return f"Hotend temperature: {hotend_min_temp}°C ({helper.convert_celsius_to_fahrenheit(hotend_min_temp)} °F)"
-    
+
     else:
         return f"Hotend temperature range: {hotend_min_temp} — {hotend_max_temp} °C"
 
 
 def decode_drying_instructions(block_6_contents) -> str:
     """
-    
+
     """
 
-    drying_temp = int(block_6_contents[1 * 2: 1 * 2 + 2] + block_6_contents[0 * 2: 0 * 2 + 2], 16)
+    drying_temp = int(
+        block_6_contents[1 * 2: 1 * 2 + 2] + block_6_contents[0 * 2: 0 * 2 + 2], 16)
 
-    drying_time_h = int(block_6_contents[3 * 2: 3 * 2 + 2] + block_6_contents[2 * 2: 2 * 2 + 2], 16)
+    drying_time_h = int(
+        block_6_contents[3 * 2: 3 * 2 + 2] + block_6_contents[2 * 2: 2 * 2 + 2], 16)
 
     return f"Drying temp: {drying_temp}°C ({helper.convert_celsius_to_fahrenheit(drying_temp)}°F) | Drying time: {drying_time_h} hours"
 
@@ -109,7 +115,8 @@ def decode_bed_plate_type(block_6_contents) -> str:
 
     output_str = ""
 
-    bed_plate_type_raw = int(block_6_contents[5 * 2: 5 * 2 + 2] + block_6_contents[4 * 2: 4 * 2 + 2], 16)
+    bed_plate_type_raw = int(
+        block_6_contents[5 * 2: 5 * 2 + 2] + block_6_contents[4 * 2: 4 * 2 + 2], 16)
 
     output_str += f"Bed plate type index = {bed_plate_type_raw} | Likeliest type: "
 
@@ -135,9 +142,8 @@ def decode_xcam_info(block_8_contents) -> str:
     """
     TODO Figure out what this is
     """
-    
-    return f"X Cam info: {block_8_contents[0:12*2]}"
 
+    return f"X Cam info: {block_8_contents[0:12*2]}"
 
 
 def decode_spool_width(block_10_contents) -> str:
@@ -188,6 +194,5 @@ def decode_filament_length(block_14_contents) -> str:
     filament_length_m = int(
         block_14_contents[5 * 2:5 * 2 + 2] +
         block_14_contents[4 * 2:4 * 2 + 2], 16)
-
 
     return f"Filament length: {filament_length_m} m ({helper.convert_meters_to_ft(filament_length_m)} ft)"

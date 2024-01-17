@@ -1,12 +1,11 @@
 
 
-
-def convert_celsius_to_fahrenheit(celsius_temp : int) -> int:
+def convert_celsius_to_fahrenheit(celsius_temp: int) -> int:
 
     return int((celsius_temp * (9/5)) + 32)
 
 
-def convert_meters_to_ft(length_m : int) -> int:
+def convert_meters_to_ft(length_m: int) -> int:
 
     return int(length_m * 3.281)
 
