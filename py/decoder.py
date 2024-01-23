@@ -104,7 +104,7 @@ def decode_drying_instructions(block_6_contents) -> str:
     drying_time_h = int(
         block_6_contents[3 * 2: 3 * 2 + 2] + block_6_contents[2 * 2: 2 * 2 + 2], 16)
 
-    return f"Drying temp: {drying_temp}°C ({helper.convert_celsius_to_fahrenheit(drying_temp)}°F) | Drying time: {drying_time_h} hours"
+    return f"Drying temp: {drying_temp} °C ({helper.convert_celsius_to_fahrenheit(drying_temp)} °F) | Drying time: {drying_time_h} hours"
 
 
 def decode_bed_plate_type(block_6_contents) -> str:
@@ -135,7 +135,7 @@ def decode_bed_temperature(block_6_contents) -> str:
         block_6_contents[9 * 2:9 * 2 + 2] + block_6_contents[8 * 2:8 * 2 + 2],
         16)
 
-    return f"Bed temperature: {bed_temperature}°C ({helper.convert_celsius_to_fahrenheit(bed_temperature)} °F)"
+    return f"Bed temperature: {bed_temperature} °C ({helper.convert_celsius_to_fahrenheit(bed_temperature)} °F)"
 
 
 def decode_xcam_info(block_8_contents) -> str:
