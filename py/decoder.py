@@ -1,12 +1,10 @@
 import binascii
-import sys
 import calendar
 import struct
-import pdb
-import datetime
+
 
 # locals
-import helper
+import units_helper
 
 
 def decode_filament_sku(block_1_contents) -> str:
@@ -87,7 +85,7 @@ def decode_hotend_temperatures(block_6_contents) -> str:
         block_6_contents[9 * 2: 9 * 2 + 2] + block_6_contents[8 * 2: 8 * 2 + 2], 16)
 
     if hotend_min_temp == hotend_max_temp:
-        return f"Hotend temperature: {hotend_min_temp}°C ({helper.convert_celsius_to_fahrenheit(hotend_min_temp)} °F)"
+        return f"Hotend temperature: {hotend_min_temp}°C ({units_helper.convert_celsius_to_fahrenheit(hotend_min_temp)} °F)"
 
     else:
         return f"Hotend temperature range: {hotend_min_temp} — {hotend_max_temp} °C"
@@ -104,7 +102,7 @@ def decode_drying_instructions(block_6_contents) -> str:
     drying_time_h = int(
         block_6_contents[3 * 2: 3 * 2 + 2] + block_6_contents[2 * 2: 2 * 2 + 2], 16)
 
-    return f"Drying temp: {drying_temp} °C ({helper.convert_celsius_to_fahrenheit(drying_temp)} °F) | Drying time: {drying_time_h} hours"
+    return f"Drying temp: {drying_temp} °C ({units_helper.convert_celsius_to_fahrenheit(drying_temp)} °F) | Drying time: {drying_time_h} hours"
 
 
 def decode_bed_plate_type(block_6_contents) -> str:
@@ -135,7 +133,7 @@ def decode_bed_temperature(block_6_contents) -> str:
         block_6_contents[9 * 2:9 * 2 + 2] + block_6_contents[8 * 2:8 * 2 + 2],
         16)
 
-    return f"Bed temperature: {bed_temperature} °C ({helper.convert_celsius_to_fahrenheit(bed_temperature)} °F)"
+    return f"Bed temperature: {bed_temperature} °C ({units_helper.convert_celsius_to_fahrenheit(bed_temperature)} °F)"
 
 
 def decode_xcam_info(block_8_contents) -> str:
@@ -143,7 +141,9 @@ def decode_xcam_info(block_8_contents) -> str:
     TODO Figure out what this is
     """
 
-    return f"X Cam info: {block_8_contents[0:12*2]}"
+    x_cam_info = block_8_contents[0:12*2]
+
+    return f"X Cam info (len={len(x_cam_info)}): {x_cam_info}"
 
 
 def decode_spool_width(block_10_contents) -> str:
@@ -152,7 +152,7 @@ def decode_spool_width(block_10_contents) -> str:
         block_10_contents[5 * 2:5 * 2 + 2] +
         block_10_contents[4 * 2:4 * 2 + 2], 16) / 100
 
-    return f"Spool width: {spool_width_mm} mm ({helper.convert_mm_to_inches(spool_width_mm)} inches)"
+    return f"Spool width: {spool_width_mm} mm ({units_helper.convert_mm_to_inches(spool_width_mm)} inches)"
 
 
 def decode_mfg_timestamps(block_12_contents, block_13_contents) -> str:
@@ -195,4 +195,4 @@ def decode_filament_length(block_14_contents) -> str:
         block_14_contents[5 * 2:5 * 2 + 2] +
         block_14_contents[4 * 2:4 * 2 + 2], 16)
 
-    return f"Filament length: {filament_length_m} m ({helper.convert_meters_to_ft(filament_length_m)} ft)"
+    return f"Filament length: {filament_length_m} m ({units_helper.convert_meters_to_ft(filament_length_m)} ft)"

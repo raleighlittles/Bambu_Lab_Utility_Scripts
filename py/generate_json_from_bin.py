@@ -2,7 +2,6 @@
 import argparse
 import os
 import binascii
-import pdb
 import json
 
 
@@ -48,6 +47,8 @@ if __name__ == "__main__":
                     #print("Reading byte in file", block_idx * 32 + byte_idx)
 
                     bin_as_json_dict["blocks"][str(block_idx)] += file_content_hexed[block_idx * 32 + byte_idx]
+
+            assert(len(bin_as_json_dict["blocks"][str(block_idx)]) == 32)
 
                 
             with open(output_json_file_path, mode='w', encoding="utf-8") as output_json_file:
