@@ -9,8 +9,8 @@ if __name__ == "__main__":
 
     argparse_parser = argparse.ArgumentParser()
 
-    argparse_parser.add_argument("-i", "--input-bin-file", help="Input bin file (to convert to JSON)", type=str, required=True)
-
+    argparse_parser.add_argument(
+        "-i", "--input-bin-file", help="Input bin file (to convert to JSON)", type=str, required=True)
 
     argparse_args = argparse_parser.parse_args()
 
@@ -31,35 +31,33 @@ if __name__ == "__main__":
 
             fileContent = bin_file.read()
 
-            file_content_hexed = binascii.b2a_hex(data=fileContent).decode("utf-8")
+            file_content_hexed = binascii.b2a_hex(
+                data=fileContent).decode("utf-8")
 
             bin_as_json_dict["blocks"] = dict()
 
             for block_idx in range(0, 64):
 
-                #print("Block index = ", block_idx)
-                
+                # print("Block index = ", block_idx)
+
                 bin_as_json_dict["blocks"][str(block_idx)] = str()
 
                 for byte_idx in range(0, 32):
 
-                    #print("Byte index: ", byte_idx)
-                    #print("Reading byte in file", block_idx * 32 + byte_idx)
+                    # print("Byte index: ", byte_idx)
+                    # print("Reading byte in file", block_idx * 32 + byte_idx)
 
-                    bin_as_json_dict["blocks"][str(block_idx)] += file_content_hexed[block_idx * 32 + byte_idx]
+                    bin_as_json_dict["blocks"][str(
+                        block_idx)] += file_content_hexed[block_idx * 32 + byte_idx]
 
-            assert(len(bin_as_json_dict["blocks"][str(block_idx)]) == 32)
+            assert (len(bin_as_json_dict["blocks"][str(block_idx)]) == 32)
 
-                
             with open(output_json_file_path, mode='w', encoding="utf-8") as output_json_file:
 
                 print("Writing file to", output_json_file_path)
-                json.dump(bin_as_json_dict, output_json_file, ensure_ascii=True, indent=4)
+                json.dump(bin_as_json_dict, output_json_file,
+                          ensure_ascii=True, indent=4)
 
     else:
-        raise FileNotFoundError(f"Error couldn't find bin file: '{bin_file_path}'")
-
-                    
-
-            
-
+        raise FileNotFoundError(
+            f"Error couldn't find bin file: '{bin_file_path}'")

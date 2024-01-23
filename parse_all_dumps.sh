@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# TODO: Print date
 
 json_ext="*.json"
 
