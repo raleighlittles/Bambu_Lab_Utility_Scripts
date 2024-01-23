@@ -1,0 +1,173 @@
+Found 9 dump files! 
+
+Analyzing ./dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #ff6a13
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100ee803e8039a99193f
+Tray UID: cad9a739fdf145a998f1a41cab9c795d
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
+Filament length: 82 m (269 ft)
+===============================
+Analyzing ./dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-004.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #FF6A13
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100EE803E8039A99193F
+Tray UID: CAD9A739FDF145A998F1A41CAB9C795D
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
+Filament length: 82 m (269 ft)
+===============================
+Analyzing ./dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 0 Blue: 255 Alpha: 255 | Raw: #FF00FF
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100EE803E8039A99193F
+Tray UID: CAD9A739FDF145A998F1A41CAB9C795D
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
+Filament length: 82 m (269 ft)
+===============================
+Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-black-pla_cf-250-B0D4C52E.bin.json..
+
+
+-------------------------------
+Filament SKU: A50-K0
+Filament type: 'PLA-CF' (PLA-CF)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 200 — 240 °C
+Bed temperature: 240 °C (464 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803e803ee803e8030000403f
+Tray UID: 51468972d3da47d683c401360555e6ae
+Spool width: 6.66 mm (0.3 inches)
+Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 01 | Minute: 51
+Filament length: 88 m (288 ft)
+===============================
+Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-green-pla-250-B2D4DE5F.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-G1
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00ae42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813e803e8039a99193f
+Tray UID: eb3f30ab66964c92b252ebdc0217fc22
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 09 | Minute: 51
+Filament length: 82 m (269 ft)
+===============================
+Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-white-pla-support-A2092770.bin.json..
+
+
+-------------------------------
+Filament SKU: S02-W0
+Filament type: 'PLA-S' (Support for PLA)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 3421d007e803e8039a99193f
+Tray UID: d74a1b36dc924da89ff8eeaf4971a919
+Spool width: 11.49 mm (0.5 inches)
+Year: 2023 | Month: 10 (October) | Day: 19 | Hour: 04 | Minute: 52
+Filament length: 80 m (262 ft)
+===============================
+Analyzing ./dumps/discord-pelrun-tag-upload-2/hf-mf-3075B55E-dump.json..
+
+
+-------------------------------
+Filament SKU: G00-A0
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 103 Blue: 31 Alpha: 255 | Raw: #FF671F
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): 8813AC0DE803E8033333333F
+Tray UID: C12075693D374136A58562A073B0061E
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 05 (May) | Day: 23 | Hour: 12 | Minute: 43
+Filament length: 330 m (1082 ft)
+===============================
+Analyzing ./dumps/discord-pelrun-tag-upload-1/hf-mf-001D075F-dump.json..
+
+
+-------------------------------
+Filament SKU: G00-W0
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): D007D007E803E803CDCC4C3F
+Tray UID: 2AA753A511234DDE8F800DE3CFA3D2FD
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 04 (April) | Day: 23 | Hour: 14 | Minute: 53
+Filament length: 330 m (1082 ft)
+===============================
+Analyzing ./dumps/discord-pelrun-tag-upload-3/hf-mf-82B07074-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-G1
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00AE42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813E803E8039A99193F
+Tray UID: F7679ECB8F1B47B3A06B8A32C1C255F0
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 15 | Hour: 09 | Minute: 33
+Filament length: 82 m (269 ft)
+===============================
