@@ -1,4 +1,49 @@
-Found 9 dump files! 
+2024-02-12
+Found 12 dump files! 
+
+Analyzing ./dumps/discord-Thebrakshow-tag-upload-1/hf-mf-A075DA2D-dump.json..
+
+
+-------------------------------
+Filament SKU: A09-B4
+Filament type: 'PLA' (PLA Tough)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 133 Blue: 173 Alpha: 255 | Raw: #0085AD
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): AC0DAC0D84038403CDCC0C3F
+Tray UID: 82833F2D0D614F3186502DE62552C7C2
+Spool width: 85.23 mm (3.4 inches)
+Year: 2023 | Month: 07 (July) | Day: 24 | Hour: 19 | Minute: 18
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing ./dumps/discord-Thebrakshow-tag-upload-1/hf-mf-20EDF52D-dump.json..
+
+
+-------------------------------
+Filament SKU: A09-B4
+Filament type: 'PLA' (PLA Tough)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 133 Blue: 173 Alpha: 255 | Raw: #0085AD
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): AC0DAC0D84038403CDCC0C3F
+Tray UID: 82833F2D0D614F3186502DE62552C7C2
+Spool width: 85.23 mm (3.4 inches)
+Year: 2023 | Month: 07 (July) | Day: 24 | Hour: 19 | Minute: 18
+Filament length: 330 m (1082 ft)
+===============================
+
+
 
 Analyzing ./dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.bin.json..
 
@@ -19,6 +64,9 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
 Filament length: 82 m (269 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-004.json..
 
 
@@ -38,6 +86,9 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
 Filament length: 82 m (269 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.json..
 
 
@@ -57,6 +108,31 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
 Filament length: 82 m (269 ft)
 ===============================
+
+
+
+Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-white-petg-1kg-ACDDAB39.bin.json..
+
+
+-------------------------------
+Filament SKU: G00-W0
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): d007d007e803e803cdcc4c3f
+Tray UID: 6475d94aceeb4c37b70fcf1a92c2738a
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 10 (October) | Day: 17 | Hour: 09 | Minute: 59
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
 Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-black-pla_cf-250-B0D4C52E.bin.json..
 
 
@@ -76,6 +152,9 @@ Spool width: 6.66 mm (0.3 inches)
 Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 01 | Minute: 51
 Filament length: 88 m (288 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-green-pla-250-B2D4DE5F.bin.json..
 
 
@@ -95,6 +174,9 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 09 | Minute: 51
 Filament length: 82 m (269 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-Rauschgiftengel-tag-uploads/bl-white-pla-support-A2092770.bin.json..
 
 
@@ -114,6 +196,9 @@ Spool width: 11.49 mm (0.5 inches)
 Year: 2023 | Month: 10 (October) | Day: 19 | Hour: 04 | Minute: 52
 Filament length: 80 m (262 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-pelrun-tag-upload-2/hf-mf-3075B55E-dump.json..
 
 
@@ -133,6 +218,9 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 05 (May) | Day: 23 | Hour: 12 | Minute: 43
 Filament length: 330 m (1082 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-pelrun-tag-upload-1/hf-mf-001D075F-dump.json..
 
 
@@ -152,6 +240,9 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 04 (April) | Day: 23 | Hour: 14 | Minute: 53
 Filament length: 330 m (1082 ft)
 ===============================
+
+
+
 Analyzing ./dumps/discord-pelrun-tag-upload-3/hf-mf-82B07074-dump.json..
 
 
@@ -171,3 +262,6 @@ Spool width: 66.25 mm (2.6 inches)
 Year: 2023 | Month: 09 (September) | Day: 15 | Hour: 09 | Minute: 33
 Filament length: 82 m (269 ft)
 ===============================
+
+
+
