@@ -6,6 +6,8 @@ Filament setting files have the `.bbsflmt` extension and printer nozzle settings
 
 Both are ZIP files: `Zip archive data, at least v2.0 to extract, compression method=deflate`
 
+See the `misc_config` directory for examples of these.
+
 # bbscfg
 
 After extracting, you'll see this structure:
@@ -175,3 +177,4 @@ The json file under the BBL directory looks like this:
     "version": "1.8.0.18"
 }
 ```
+
