@@ -1,0 +1,3 @@
+[submodule "RFID_dump_decoder/dumps/Bambu_Labs_RFID_Tag_dumps"]
+	path = RFID_dump_decoder/dumps/Bambu_Labs_RFID_Tag_dumps
+	url = git@github.com:raleighlittles/Bambu_Labs_RFID_Tag_dumps.git
