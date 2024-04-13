@@ -14,6 +14,7 @@ ap.add_argument("-t", "--type", type=str,
 args = vars(ap.parse_args())
 
 # define names of each possible ArUco tag OpenCV supports
+# https://docs.opencv.org/3.4/dc/df7/dictionary_8hpp.html
 ARUCO_DICT = {
     "DICT_4X4_50": cv2.aruco.DICT_4X4_50,
     "DICT_4X4_100": cv2.aruco.DICT_4X4_100,
@@ -39,7 +40,7 @@ ARUCO_DICT = {
 }
 
 # load the input image from disk and resize it
-print("[INFO] loading image...")
+print(f"[INFO] loading image {args['image']}")
 image = cv2.imread(args["image"])
 image = imutils.resize(image, width=600)
 # verify that the supplied ArUCo tag exists and is supported by
@@ -99,3 +100,8 @@ if len(corners) > 0:
         # show the output image
         cv2.imshow("Image", image)
         cv2.waitKey(0)
+        
+        cv2.destroyAllWindows()
+
+else:
+    print(f"[WARN] No Aruco markers detected for dict type")
