@@ -68,6 +68,7 @@ corners, ids, rejected = detector.detectMarkers(image)
 
 # verify *at least* one ArUco marker was detected
 if len(corners) > 0:
+    print(f"[INFO] {len(corners)} aruco markers detected in image")
     # flatten the ArUco IDs list
     ids = ids.flatten()
     # loop over the detected ArUCo corners
@@ -97,11 +98,11 @@ if len(corners) > 0:
                     (topLeft[0], topLeft[1] - 15), cv2.FONT_HERSHEY_SIMPLEX,
                     0.5, (0, 255, 0), 2)
         print("[INFO] ArUco marker ID: {}".format(markerID))
-        # show the output image
-        cv2.imshow("Image", image)
-        cv2.waitKey(0)
-        
-        cv2.destroyAllWindows()
+    # show the output image
+    cv2.imshow("Image", image)
+    cv2.waitKey(0)
+    
+    cv2.destroyAllWindows()
 
 else:
     print(f"[WARN] No Aruco markers detected for dict type")
