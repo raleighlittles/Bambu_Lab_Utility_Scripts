@@ -1,0 +1,1 @@
+Source: https://www.printables.com/model/432805-build-plate-aruco-qr-alike-code-for-bambu-lab-x1c/files
