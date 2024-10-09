@@ -1,95 +1,7 @@
-2024-08-03
-Found 29 dump files! 
+2024-10-09
+Found 36 dump files! 
 
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-004.json..
-
-
--------------------------------
-Filament SKU: A00-A0
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #FF6A13
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 8813100EE803E8039A99193F
-Tray UID: CAD9A739FDF145A998F1A41CAB9C795D
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.json..
-
-
--------------------------------
-Filament SKU: A00-A0
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 255 Green: 0 Blue: 255 Alpha: 255 | Raw: #FF00FF
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 8813100EE803E8039A99193F
-Tray UID: CAD9A739FDF145A998F1A41CAB9C795D
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.bin.json..
-
-
--------------------------------
-Filament SKU: A00-A0
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #ff6a13
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 8813100ee803e8039a99193f
-Tray UID: cad9a739fdf145a998f1a41cab9c795d
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-3/hf-mf-1EFB5E72-dump.json..
-
-
--------------------------------
-Filament SKU: A15-G1
-Filament type: 'PLA' (PLA Galaxy)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 66 Green: 67 Blue: 121 Alpha: 255 | Raw: #424379
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): A438A4388403E8033333333F
-Tray UID: 127C038F311647FEAA10CC52978808CC
-Spool width: 66.25 mm (2.6 inches)
-Year: 2024 | Month: 03 (March) | Day: 16 | Hour: 07 | Minute: 11
-Filament length: 350 m (1148 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-pelrun-tag-upload-2/hf-mf-3075B55E-dump.json..
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-pelrun-tag-upload-2/hf-mf-3075B55E-dump.json..
 
 
 -------------------------------
@@ -111,491 +23,7 @@ Filament length: 330 m (1082 ft)
 
 
 
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-1/hf-mf-DAFBB270-dump.json..
-
-
--------------------------------
-Filament SKU: A08-B7
-Filament type: 'PLA' (PLA Sparkle)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 72 Green: 61 Blue: 139 Alpha: 255 | Raw: #483D8B
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 8813AC0DE803E8033333333F
-Tray UID: B29A4BA3CCCE45E2AC7A23B330E37569
-Spool width: 66.25 mm (2.6 inches)
-Year: 2024 | Month: 04 (April) | Day: 16 | Hour: 07 | Minute: 31
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-pelrun-tag-upload-1/hf-mf-001D075F-dump.json..
-
-
--------------------------------
-Filament SKU: G00-W0
-Filament type: 'PETG' (PETG Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Filament color: White
-Hotend temperature range: 220 — 270 °C
-Bed temperature: 270 °C (518 °F)
-Drying temp: 65 °C (149 °F) | Drying time: 8 hours
-Bed plate type index = 2 | Likeliest type: Engineering Plate
-X Cam info (len=24): D007D007E803E803CDCC4C3F
-Tray UID: 2AA753A511234DDE8F800DE3CFA3D2FD
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 04 (April) | Day: 23 | Hour: 14 | Minute: 53
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Thebrakshow-tag-upload-1/hf-mf-A075DA2D-dump.json..
-
-
--------------------------------
-Filament SKU: A09-B4
-Filament type: 'PLA' (PLA Tough)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 133 Blue: 173 Alpha: 255 | Raw: #0085AD
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): AC0DAC0D84038403CDCC0C3F
-Tray UID: 82833F2D0D614F3186502DE62552C7C2
-Spool width: 85.23 mm (3.4 inches)
-Year: 2023 | Month: 07 (July) | Day: 24 | Hour: 19 | Minute: 18
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Thebrakshow-tag-upload-1/hf-mf-20EDF52D-dump.json..
-
-
--------------------------------
-Filament SKU: A09-B4
-Filament type: 'PLA' (PLA Tough)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 133 Blue: 173 Alpha: 255 | Raw: #0085AD
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): AC0DAC0D84038403CDCC0C3F
-Tray UID: 82833F2D0D614F3186502DE62552C7C2
-Spool width: 85.23 mm (3.4 inches)
-Year: 2023 | Month: 07 (July) | Day: 24 | Hour: 19 | Minute: 18
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-7/hf-mf-1EFB5E72-dump.json..
-
-
--------------------------------
-Filament SKU: A15-G1
-Filament type: 'PLA' (PLA Galaxy)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 66 Green: 67 Blue: 121 Alpha: 255 | Raw: #424379
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): A438A4388403E8033333333F
-Tray UID: 127C038F311647FEAA10CC52978808CC
-Spool width: 66.25 mm (2.6 inches)
-Year: 2024 | Month: 03 (March) | Day: 16 | Hour: 07 | Minute: 11
-Filament length: 350 m (1148 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-2/hf-mf-FCB3C354-dump.json..
-
-
--------------------------------
-Filament SKU: A00-G1
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00AE42
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 88138813E803E8039A99193F
-Tray UID: 443DC370442F4735BB32460F3D0DA9BB
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 11 (November) | Day: 27 | Hour: 16 | Minute: 48
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-silver-pla-1kg-AC973F96.bin.json..
-
-
--------------------------------
-Filament SKU: A00-D1
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 166 Green: 169 Blue: 170 Alpha: 255 | Raw: #a6a9aa
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): d007d007e803e8030000803f
-Tray UID: 120bc4b88298442996fac91df57e41a5
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 12 (December) | Day: 30 | Hour: 07 | Minute: 19
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-bronze-pla-1kg-CC747554.bin.json..
-
-
--------------------------------
-Filament SKU: A00-Y3
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 132 Green: 117 Blue: 78 Alpha: 255 | Raw: #84754e
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 88138813e803e803cdcc4c3f
-Tray UID: 63f25159270c467299f5053d90fb46d2
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 12 (December) | Day: 23 | Hour: 08 | Minute: 22
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-grey-pla-1kg-DC4B86B0.bin.json..
-
-
--------------------------------
-Filament SKU: A00-D0
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 142 Green: 144 Blue: 137 Alpha: 255 | Raw: #8e9089
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): d007d007e803e8039a99193f
-Tray UID: 967074e421b94782bee0a16266db4347
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 12 (December) | Day: 18 | Hour: 13 | Minute: 09
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-green-pla-1kg-ADA5ECDD.bin.json..
-
-
--------------------------------
-Filament SKU: A00-G6
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00ae42
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 88138813e803e8039a99193f
-Tray UID: 78757df9a369410ca8de1762973783e6
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 12 (December) | Day: 13 | Hour: 08 | Minute: 03
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-5/PLA-CF-Black-sample-FC6957B9-dump.json..
-
-
--------------------------------
-Filament SKU: A50-K0
-Filament type: 'PLA-CF' (PLA-CF)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Filament color: Black
-Hotend temperature range: 200 — 240 °C
-Bed temperature: 240 °C (464 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 803E803EE803E8030000403F
-Tray UID: 417C3186A5EB4307B3B88BDBFF2F2AB7
-Spool width: 6.66 mm (0.3 inches)
-Year: 2024 | Month: 03 (March) | Day: 01 | Hour: 19 | Minute: 26
-Filament length: 88 m (288 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-3/hf-mf-227FDD5F-dump.json..
-
-
--------------------------------
-Filament SKU: A00-K0
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Filament color: Black
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 803E803EE803E803CDCC4C3F
-Tray UID: 8C7B1BCDC4D0452FBA7659F9BCF768BE
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 11 (November) | Day: 08 | Hour: 07 | Minute: 10
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-pelrun-tag-upload-3/hf-mf-82B07074-dump.json..
-
-
--------------------------------
-Filament SKU: A00-G1
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00AE42
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 88138813E803E8039A99193F
-Tray UID: F7679ECB8F1B47B3A06B8A32C1C255F0
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 09 (September) | Day: 15 | Hour: 09 | Minute: 33
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-white-petg-1kg-ACDDAB39.bin.json..
-
-
--------------------------------
-Filament SKU: G00-W0
-Filament type: 'PETG' (PETG Basic)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Filament color: White
-Hotend temperature range: 220 — 270 °C
-Bed temperature: 270 °C (518 °F)
-Drying temp: 65 °C (149 °F) | Drying time: 8 hours
-Bed plate type index = 2 | Likeliest type: Engineering Plate
-X Cam info (len=24): d007d007e803e803cdcc4c3f
-Tray UID: 6475d94aceeb4c37b70fcf1a92c2738a
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 10 (October) | Day: 17 | Hour: 09 | Minute: 59
-Filament length: 330 m (1082 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-green-pla-250-B2D4DE5F.bin.json..
-
-
--------------------------------
-Filament SKU: A00-G1
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00ae42
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 88138813e803e8039a99193f
-Tray UID: eb3f30ab66964c92b252ebdc0217fc22
-Spool width: 66.25 mm (2.6 inches)
-Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 09 | Minute: 51
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-black-pla_cf-250-B0D4C52E.bin.json..
-
-
--------------------------------
-Filament SKU: A50-K0
-Filament type: 'PLA-CF' (PLA-CF)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Filament color: Black
-Hotend temperature range: 200 — 240 °C
-Bed temperature: 240 °C (464 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 803e803ee803e8030000403f
-Tray UID: 51468972d3da47d683c401360555e6ae
-Spool width: 6.66 mm (0.3 inches)
-Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 01 | Minute: 51
-Filament length: 88 m (288 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-white-pla-support-A2092770.bin.json..
-
-
--------------------------------
-Filament SKU: S02-W0
-Filament type: 'PLA-S' (Support for PLA)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Filament color: White
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 3421d007e803e8039a99193f
-Tray UID: d74a1b36dc924da89ff8eeaf4971a919
-Spool width: 11.49 mm (0.5 inches)
-Year: 2023 | Month: 10 (October) | Day: 19 | Hour: 04 | Minute: 52
-Filament length: 80 m (262 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-6/PLA-Support-White-sample-BE5F5771-dump.json..
-
-
--------------------------------
-Filament SKU: S02-W0
-Filament type: 'PLA-S' (Support for PLA)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Filament color: White
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 3421D007E803E8039A99193F
-Tray UID: 76B802FEBB714CA1A166FDD67E7A9A47
-Spool width: 11.49 mm (0.5 inches)
-Year: 2024 | Month: 01 (January) | Day: 17 | Hour: 18 | Minute: 21
-Filament length: 80 m (262 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-5/hf-mf-75886B1D-dump-014.json..
-
-
--------------------------------
-Filament SKU: A00-A0
-Filament type: 'PLA' (PLA Basic)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #FF6A13
-Hotend temperature: 220°C (428 °F)
-Bed temperature: 220 °C (428 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 8813100EE803E8039A99193F
-Tray UID: D7AC3B89A16B47C4B061728044E1F2D5
-Spool width: 66.25 mm (2.6 inches)
-Year: 2022 | Month: 10 (October) | Day: 15 | Hour: 08 | Minute: 26
-Filament length: 82 m (269 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-4/hf-mf-D2C75974-dump.json..
-
-
--------------------------------
-Filament SKU: A01-K1
-Filament type: 'PLA' (PLA Matte)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Filament color: Black
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): A4388813E803E803CDCC4C3F
-Tray UID: EF144DFD6FAC4A6DBF7347A8606932D5
-Spool width: 11.49 mm (0.5 inches)
-Year: 2023 | Month: 10 (October) | Day: 20 | Hour: 12 | Minute: 22
-Filament length: 315 m (1033 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-2/hf-mf-BC1D11D0-dump.json..
-
-
--------------------------------
-Filament SKU: A05-T3
-Filament type: 'PLA' (PLA Silk)
-Spool weight: 1000 g (1.0 kg)
-Filament diameter: 1.75 mm
-Red: 0 Green: 71 Blue: 187 Alpha: 255 | Raw: #0047BB
-Hotend temperature range: 210 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 342188138403E803CDCC4C3F
-Tray UID: 58057788374549919C4BFA81B13BDA47
-Spool width: 11.49 mm (0.5 inches)
-Year: 2024 | Month: 03 (March) | Day: 26 | Hour: 08 | Minute: 37
-Filament length: 315 m (1033 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-6/hf-mf-6CB1F93B-dump.json..
-
-
--------------------------------
-Filament SKU: S02-W0
-Filament type: 'PLA-S' (Support for PLA)
-Spool weight: 250 g (0.25 kg)
-Filament diameter: 1.75 mm
-Filament color: White
-Hotend temperature range: 190 — 230 °C
-Bed temperature: 230 °C (446 °F)
-Drying temp: 55 °C (131 °F) | Drying time: 8 hours
-Bed plate type index = 1 | Likeliest type: PLA
-X Cam info (len=24): 3421D007E803E8039A99193F
-Tray UID: 10DF3DF63A6341DFA6BF1F90BFC99F2D
-Spool width: 11.49 mm (0.5 inches)
-Year: 2023 | Month: 11 (November) | Day: 29 | Hour: 10 | Minute: 09
-Filament length: 80 m (262 ft)
-===============================
-
-
-
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-1/hf-mf-ACB5BB39-dump.json..
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-1/hf-mf-ACB5BB39-dump.json..
 
 
 -------------------------------
@@ -617,7 +45,73 @@ Filament length: 330 m (1082 ft)
 
 
 
-Analyzing ../../Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-4/PLA-Basic-Green-sample-9EA42F72-dump.json..
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-3/hf-mf-227FDD5F-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-K0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803E803EE803E803CDCC4C3F
+Tray UID: 8C7B1BCDC4D0452FBA7659F9BCF768BE
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 11 (November) | Day: 08 | Hour: 07 | Minute: 10
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-3/hf-mf-1EFB5E72-dump.json..
+
+
+-------------------------------
+Filament SKU: A15-G1
+Filament type: 'PLA' (PLA Galaxy)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 66 Green: 67 Blue: 121 Alpha: 255 | Raw: #424379
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): A438A4388403E8033333333F
+Tray UID: 127C038F311647FEAA10CC52978808CC
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 03 (March) | Day: 16 | Hour: 07 | Minute: 11
+Filament length: 350 m (1148 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-6/hf-mf-6CB1F93B-dump.json..
+
+
+-------------------------------
+Filament SKU: S02-W0
+Filament type: 'PLA-S' (Support for PLA)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 3421D007E803E8039A99193F
+Tray UID: 10DF3DF63A6341DFA6BF1F90BFC99F2D
+Spool width: 11.49 mm (0.5 inches)
+Year: 2023 | Month: 11 (November) | Day: 29 | Hour: 10 | Minute: 09
+Filament length: 80 m (262 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-4/PLA-Basic-Green-sample-9EA42F72-dump.json..
 
 
 -------------------------------
@@ -634,6 +128,666 @@ X Cam info (len=24): 88138813E803E8039A99193F
 Tray UID: 5353EF1E6C1047BC8A2275D27EEEA15B
 Spool width: 66.25 mm (2.6 inches)
 Year: 2024 | Month: 02 (February) | Day: 25 | Hour: 18 | Minute: 43
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-7/hf-mf-1EFB5E72-dump.json..
+
+
+-------------------------------
+Filament SKU: A15-G1
+Filament type: 'PLA' (PLA Galaxy)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 66 Green: 67 Blue: 121 Alpha: 255 | Raw: #424379
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): A438A4388403E8033333333F
+Tray UID: 127C038F311647FEAA10CC52978808CC
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 03 (March) | Day: 16 | Hour: 07 | Minute: 11
+Filament length: 350 m (1148 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 0 Blue: 255 Alpha: 255 | Raw: #FF00FF
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100EE803E8039A99193F
+Tray UID: CAD9A739FDF145A998F1A41CAB9C795D
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-003.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #ff6a13
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100ee803e8039a99193f
+Tray UID: cad9a739fdf145a998f1a41cab9c795d
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-blueage-tag-upload-1/hf-mf-4DD364F4-dump-004.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #FF6A13
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100EE803E8039A99193F
+Tray UID: CAD9A739FDF145A998F1A41CAB9C795D
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 05 | Hour: 09 | Minute: 50
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-pelrun-tag-upload-3/hf-mf-82B07074-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-G1
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00AE42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813E803E8039A99193F
+Tray UID: F7679ECB8F1B47B3A06B8A32C1C255F0
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 09 (September) | Day: 15 | Hour: 09 | Minute: 33
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-green-pla-250-B2D4DE5F.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-G1
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00ae42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813e803e8039a99193f
+Tray UID: eb3f30ab66964c92b252ebdc0217fc22
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 09 | Minute: 51
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-white-pla-support-A2092770.bin.json..
+
+
+-------------------------------
+Filament SKU: S02-W0
+Filament type: 'PLA-S' (Support for PLA)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 3421d007e803e8039a99193f
+Tray UID: d74a1b36dc924da89ff8eeaf4971a919
+Spool width: 11.49 mm (0.5 inches)
+Year: 2023 | Month: 10 (October) | Day: 19 | Hour: 04 | Minute: 52
+Filament length: 80 m (262 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-white-petg-1kg-ACDDAB39.bin.json..
+
+
+-------------------------------
+Filament SKU: G00-W0
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): d007d007e803e803cdcc4c3f
+Tray UID: 6475d94aceeb4c37b70fcf1a92c2738a
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 10 (October) | Day: 17 | Hour: 09 | Minute: 59
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-1/bl-black-pla_cf-250-B0D4C52E.bin.json..
+
+
+-------------------------------
+Filament SKU: A50-K0
+Filament type: 'PLA-CF' (PLA-CF)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 200 — 240 °C
+Bed temperature: 240 °C (464 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803e803ee803e8030000403f
+Tray UID: 51468972d3da47d683c401360555e6ae
+Spool width: 6.66 mm (0.3 inches)
+Year: 2023 | Month: 11 (November) | Day: 15 | Hour: 01 | Minute: 51
+Filament length: 88 m (288 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-5/PLA-CF-Black-sample-FC6957B9-dump.json..
+
+
+-------------------------------
+Filament SKU: A50-K0
+Filament type: 'PLA-CF' (PLA-CF)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 200 — 240 °C
+Bed temperature: 240 °C (464 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803E803EE803E8030000403F
+Tray UID: 417C3186A5EB4307B3B88BDBFF2F2AB7
+Spool width: 6.66 mm (0.3 inches)
+Year: 2024 | Month: 03 (March) | Day: 01 | Hour: 19 | Minute: 26
+Filament length: 88 m (288 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Aptimex-tag-upload-3/hf-mf-CC9DFC54-dump.json..
+
+
+-------------------------------
+Filament SKU: G00-G6
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 150 Blue: 57 Alpha: 255 | Raw: #009639
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): 34218813E803E803CDCC4C3F
+Tray UID: EBCD047357124B60917E9F7CE1D9F7E1
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 02 (February) | Day: 25 | Hour: 08 | Minute: 16
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Boudawg-tag-upload-1/hf-mf-8DC60321-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-G6
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00AE42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813E803E8039A99193F
+Tray UID: 52E6FD9993084E61AA6D9070C6329A87
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 02 (February) | Day: 09 | Hour: 11 | Minute: 10
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Aptimex-tag-upload-1/hf-mf-FCF77B54-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-K0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803E803EE803E803CDCC4C3F
+Tray UID: A97BBDD933864AF280C9B7ACAA5B7EAC
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 01 (January) | Day: 27 | Hour: 09 | Minute: 10
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-bronze-pla-1kg-CC747554.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-Y3
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 132 Green: 117 Blue: 78 Alpha: 255 | Raw: #84754e
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813e803e803cdcc4c3f
+Tray UID: 63f25159270c467299f5053d90fb46d2
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 12 (December) | Day: 23 | Hour: 08 | Minute: 22
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-green-pla-1kg-ADA5ECDD.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-G6
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00ae42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813e803e8039a99193f
+Tray UID: 78757df9a369410ca8de1762973783e6
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 12 (December) | Day: 13 | Hour: 08 | Minute: 03
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-grey-pla-1kg-DC4B86B0.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-D0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 142 Green: 144 Blue: 137 Alpha: 255 | Raw: #8e9089
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): d007d007e803e8039a99193f
+Tray UID: 967074e421b94782bee0a16266db4347
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 12 (December) | Day: 18 | Hour: 13 | Minute: 09
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Rauschgiftengel-tag-uploads-2/bl-silver-pla-1kg-AC973F96.bin.json..
+
+
+-------------------------------
+Filament SKU: A00-D1
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 166 Green: 169 Blue: 170 Alpha: 255 | Raw: #a6a9aa
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): d007d007e803e8030000803f
+Tray UID: 120bc4b88298442996fac91df57e41a5
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 12 (December) | Day: 30 | Hour: 07 | Minute: 19
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-4/hf-mf-D2C75974-dump.json..
+
+
+-------------------------------
+Filament SKU: A01-K1
+Filament type: 'PLA' (PLA Matte)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): A4388813E803E803CDCC4C3F
+Tray UID: EF144DFD6FAC4A6DBF7347A8606932D5
+Spool width: 11.49 mm (0.5 inches)
+Year: 2023 | Month: 10 (October) | Day: 20 | Hour: 12 | Minute: 22
+Filament length: 315 m (1033 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Aptimex-tag-upload-2/BL-PETG-Green1/hf-mf-1C71FF54-dump.json..
+
+
+-------------------------------
+Filament SKU: G00-G6
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 150 Blue: 57 Alpha: 255 | Raw: #009639
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): 34218813E803E803CDCC4C3F
+Tray UID: EBCD047357124B60917E9F7CE1D9F7E1
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 02 (February) | Day: 25 | Hour: 08 | Minute: 16
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Boudawg-tag-upload-2/hf-mf-D79826BB-dump.json..
+
+
+-------------------------------
+Filament SKU: A50-K0
+Filament type: 'PLA-CF' (PLA-CF)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 200 — 240 °C
+Bed temperature: 240 °C (464 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803E803EE803E8030000403F
+Tray UID: 43C8625571424CE297A4F272C6B885E1
+Spool width: 6.66 mm (0.3 inches)
+Year: 2023 | Month: 02 (February) | Day: 04 | Hour: 16 | Minute: 50
+Filament length: 88 m (288 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-5/hf-mf-75886B1D-dump-014.json..
+
+
+-------------------------------
+Filament SKU: A00-A0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 255 Green: 106 Blue: 19 Alpha: 255 | Raw: #FF6A13
+Hotend temperature: 220°C (428 °F)
+Bed temperature: 220 °C (428 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813100EE803E8039A99193F
+Tray UID: D7AC3B89A16B47C4B061728044E1F2D5
+Spool width: 66.25 mm (2.6 inches)
+Year: 2022 | Month: 10 (October) | Day: 15 | Hour: 08 | Minute: 26
+Filament length: 82 m (269 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Thebrakshow-tag-upload-1/hf-mf-A075DA2D-dump.json..
+
+
+-------------------------------
+Filament SKU: A09-B4
+Filament type: 'PLA' (PLA Tough)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 133 Blue: 173 Alpha: 255 | Raw: #0085AD
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): AC0DAC0D84038403CDCC0C3F
+Tray UID: 82833F2D0D614F3186502DE62552C7C2
+Spool width: 85.23 mm (3.4 inches)
+Year: 2023 | Month: 07 (July) | Day: 24 | Hour: 19 | Minute: 18
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Thebrakshow-tag-upload-1/hf-mf-20EDF52D-dump.json..
+
+
+-------------------------------
+Filament SKU: A09-B4
+Filament type: 'PLA' (PLA Tough)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 133 Blue: 173 Alpha: 255 | Raw: #0085AD
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): AC0DAC0D84038403CDCC0C3F
+Tray UID: 82833F2D0D614F3186502DE62552C7C2
+Spool width: 85.23 mm (3.4 inches)
+Year: 2023 | Month: 07 (July) | Day: 24 | Hour: 19 | Minute: 18
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-6/PLA-Support-White-sample-BE5F5771-dump.json..
+
+
+-------------------------------
+Filament SKU: S02-W0
+Filament type: 'PLA-S' (Support for PLA)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 3421D007E803E8039A99193F
+Tray UID: 76B802FEBB714CA1A166FDD67E7A9A47
+Spool width: 11.49 mm (0.5 inches)
+Year: 2024 | Month: 01 (January) | Day: 17 | Hour: 18 | Minute: 21
+Filament length: 80 m (262 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-pelrun-tag-upload-1/hf-mf-001D075F-dump.json..
+
+
+-------------------------------
+Filament SKU: G00-W0
+Filament type: 'PETG' (PETG Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 220 — 270 °C
+Bed temperature: 270 °C (518 °F)
+Drying temp: 65 °C (149 °F) | Drying time: 8 hours
+Bed plate type index = 2 | Likeliest type: Engineering Plate
+X Cam info (len=24): D007D007E803E803CDCC4C3F
+Tray UID: 2AA753A511234DDE8F800DE3CFA3D2FD
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 04 (April) | Day: 23 | Hour: 14 | Minute: 53
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-1/hf-mf-DAFBB270-dump.json..
+
+
+-------------------------------
+Filament SKU: A08-B7
+Filament type: 'PLA' (PLA Sparkle)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 72 Green: 61 Blue: 139 Alpha: 255 | Raw: #483D8B
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 8813AC0DE803E8033333333F
+Tray UID: B29A4BA3CCCE45E2AC7A23B330E37569
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 04 (April) | Day: 16 | Hour: 07 | Minute: 31
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Boudawg-tag-upload-3/hf-mf-071737C1-dump.json..
+
+
+-------------------------------
+Filament SKU: S00-W0
+Filament type: 'PLA-S' (Support W)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Filament color: White
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 3421D007E803E8039A99193F
+Tray UID: FA42614FC40C49E399184254BA8B3A14
+Spool width: 11.49 mm (0.5 inches)
+Year: 2022 | Month: 12 (December) | Day: 29 | Hour: 11 | Minute: 39
+Filament length: 80 m (262 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-queengooborg-tag-upload-2/hf-mf-BC1D11D0-dump.json..
+
+
+-------------------------------
+Filament SKU: A05-T3
+Filament type: 'PLA' (PLA Silk)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 71 Blue: 187 Alpha: 255 | Raw: #0047BB
+Hotend temperature range: 210 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 342188138403E803CDCC4C3F
+Tray UID: 58057788374549919C4BFA81B13BDA47
+Spool width: 11.49 mm (0.5 inches)
+Year: 2024 | Month: 03 (March) | Day: 26 | Hour: 08 | Minute: 37
+Filament length: 315 m (1033 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-Aptimex-tag-upload-4/hf-mf-1C1D5CB9-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-K0
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 1000 g (1.0 kg)
+Filament diameter: 1.75 mm
+Filament color: Black
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 803E803EE803E803CDCC4C3F
+Tray UID: A97BBDD933864AF280C9B7ACAA5B7EAC
+Spool width: 66.25 mm (2.6 inches)
+Year: 2024 | Month: 01 (January) | Day: 27 | Hour: 09 | Minute: 10
+Filament length: 330 m (1082 ft)
+===============================
+
+
+
+Analyzing /home/raleigh/github/Bambu_Labs_RFID_Tag_dumps/discord-cakehimself-tag-upload-2/hf-mf-FCB3C354-dump.json..
+
+
+-------------------------------
+Filament SKU: A00-G1
+Filament type: 'PLA' (PLA Basic)
+Spool weight: 250 g (0.25 kg)
+Filament diameter: 1.75 mm
+Red: 0 Green: 174 Blue: 66 Alpha: 255 | Raw: #00AE42
+Hotend temperature range: 190 — 230 °C
+Bed temperature: 230 °C (446 °F)
+Drying temp: 55 °C (131 °F) | Drying time: 8 hours
+Bed plate type index = 1 | Likeliest type: PLA
+X Cam info (len=24): 88138813E803E8039A99193F
+Tray UID: 443DC370442F4735BB32460F3D0DA9BB
+Spool width: 66.25 mm (2.6 inches)
+Year: 2023 | Month: 11 (November) | Day: 27 | Hour: 16 | Minute: 48
 Filament length: 82 m (269 ft)
 ===============================
 
