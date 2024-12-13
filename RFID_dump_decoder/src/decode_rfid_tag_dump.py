@@ -57,7 +57,9 @@ def decode_rfid_dump(json_file_obj):
 
     print(decoder.decode_spool_width(rfid_blocks["10"]))
 
+
     print(decoder.decode_mfg_timestamps(rfid_blocks["12"], rfid_blocks["13"]))
+
 
     print(decoder.decode_filament_length(rfid_blocks["14"]))
     
@@ -81,9 +83,13 @@ if __name__ == "__main__":
 
     if os.path.exists(json_filepath):
 
-        with open(json_filepath, 'r') as json_file_obj:
+        with open(json_filepath, mode='r') as json_file_obj:
 
-            decode_rfid_dump(json_file_obj)
+            try:
+                decode_rfid_dump(json_file_obj)
+                
+            except ValueError as e:
+                print(f"Error extracting data from JSON file '{json_file_obj.name}': {e}")
 
     else:
         raise FileNotFoundError(f"Error: JSON file '{json_filepath}' could not be found")
