@@ -96,7 +96,6 @@ T255                   ; Tool/extruder change to tool 255 (possibly a custom too
 G4                     ; Dwell (pause)
 M104 S0                ; Set hotend temperature to 0°C (turn it off)
 G1 X70 F3000           ; Move to X=70 at 3000 mm/min
-
 G91                    ; Switch to **relative positioning**
 G1 Z-3 F1200           ; Move Z down by 3mm at 1200 mm/min
 G90                    ; Switch back to **absolute positioning**
