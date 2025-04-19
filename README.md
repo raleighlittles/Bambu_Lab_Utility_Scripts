@@ -1,6 +1,6 @@
 # About
 
-This repository contains a set of utility scripts centered around the Bambu Labs 3D printer ecosystem.
+This repository contains a set of utility scripts centered around the Bambu Lab's 3D printer ecosystem.
 
 The most important directories are:
 
@@ -12,4 +12,4 @@ The most important directories are:
 
 Each directory has its own README.md with mre info.
 
-Lastly, there is a `docs` folder that contains general documentation about Bambu Labs devices and the ecosystem.
+Lastly, there is a `docs` folder that contains general documentation about Bambu Lab devices and the ecosystem.
