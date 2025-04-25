@@ -22,5 +22,22 @@ At the core of it, flushing data consists of 3 things:
 * The ending color
 * How much volume (in units of mm^3) of filament to flush when doing this color change
 
-My understanding is that the Bambu Studio algorithm assumes flush volumes are the same across filament, i.e. changing from dark red to light blue in PLA will require the same amount of filament to be flushed as if it was PETG instead of PLA.
+Example:
+
+```
+src dst flush
+#000000 #F4EE2A 450
+#000000 #5E43B7 330
+```
+
+# Algorithm
+
+This data is basically a lookup table that comes from the Bambu algorithm. No other information about this algorithm is provided.
+
+It appears that the Bambu Studio algorithm assumes flush volumes are the same across filament, i.e. changing from dark red to light blue in PLA will require the same amount of filament to be flushed as if it was PETG instead of PLA (since there are no filament-specific flush data files).
+
+Also, flushing is NOT symmetric. In other words, going from black filament to white filament has a different flushing volume than going from white filament to black filament.
+
+
+
 

@@ -2,7 +2,19 @@ import argparse
 import os
 import pandas
 import pdb
-import sqllite3
+import sqlite3
+
+def check_flush_data_symmetry(flush_data_df):
+    """
+    Check if the flush data is symmetric, i.e., if flush_data_df["src"] -> flush_data_df["dst"]
+    is equal to flush_data_df["dst"] -> flush_data_df["src"].
+    """
+    # Create a new dataframe with the reversed src and dst columns
+    reversed_df = flush_data_df.copy()
+    reversed_df[["src", "dst"]] = flush_data_df[["dst", "src"]]
+
+    # Check if the two dataframes are equal
+    return pandas.DataFrame.equals(flush_data_df, reversed_df)
 
 if __name__ == "__main__":
 
@@ -34,7 +46,7 @@ if __name__ == "__main__":
         # Each flush_data_*.txt file starts with two header rows:
         # "colors"
         # <list of colors>
-        flush_data_df = pandas.read_csv(flush_data_file_path, skiprows=2)
+        flush_data_df = pandas.read_csv(flush_data_file_path, skiprows=2, sep=" ")
         expected_num_rows += flush_data_df.shape[0]
 
         flush_files_and_dataframes[flush_data_file] = flush_data_df
@@ -47,17 +59,24 @@ if __name__ == "__main__":
         flush_files_and_dataframes.values(), ignore_index=True)
     combined_df = pandas.DataFrame.drop_duplicates(
         combined_df, ignore_index=True)
-
+    
     # Now store that combined dataframe into a database file
-    db_conn = sqllite3.connect("flush_volume.db")
+    db_conn = sqlite3.connect("flush_volume.db")
     db_cursor = db_conn.cursor()
 
     db_cursor.execute("""CREATE TABLE IF NOT EXISTS flush_volume (
-                      id INTEGER PRIMARY_KEY AUTOINCREMENT,
+                      id INTEGER PRIMARY KEY AUTOINCREMENT,
                       src_color TEXT,
                       dst_color TEXT,
                       flush_volume_mm3 INTEGER)""")
     
-    
+    for index, row in combined_df.iterrows():
+        # Insert each row into the database
+        db_cursor.execute("INSERT INTO flush_volume (src_color, dst_color, flush_volume_mm3) VALUES (?, ?, ?)",
+                          (row["src"], row["dst"], row["flush"]))
 
+    db_conn.commit()
+    db_conn.close()
+
+    print(f"[DEBUG] Created database with {len(combined_df)} rows (size {os.path.getsize('flush_volume.db')} bytes)")
     
