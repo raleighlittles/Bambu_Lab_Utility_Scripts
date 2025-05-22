@@ -21,9 +21,6 @@ Apart from that, I've also included several useful files that are included in th
 * `gcode` : The G-Code used to do loading and unloading of filament if you have an AMS
 * `hms` : The "Health Management System" part of Bambu. Basically contains a list of known error codes and descriptions, plus images to diagnose/repair.
 * `icons` : Icon pack of UI icons, that come installed with Bambu Studio. In this directory there is also a Rust script for decoding `icns` files that may be generally useful.
+* `flush_data`: The flushing data presets, used by the printer when changing filament during a multi-filament print
 
 Each directory has its own README.md with more info.
-
-# Unknown directories
-
-* `flush_data` ???

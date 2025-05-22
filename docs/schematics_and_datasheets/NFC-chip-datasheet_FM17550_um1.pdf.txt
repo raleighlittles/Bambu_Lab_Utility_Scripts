@@ -1,0 +1,20 @@
+Title:           FM1920智能移动平台芯片
+Author:          wangfang
+Creator:         Microsoft® Word 2010
+Producer:        Microsoft® Word 2010
+CreationDate:    Sun Mar  2 18:42:57 2014 MST
+ModDate:         Wed Mar  5 18:58:24 2014 MST
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            AcroForm
+JavaScript:      no
+Pages:           94
+Encrypted:       yes (print:no copy:no change:no addNotes:no algorithm:AES)
+Page size:       595.32 x 841.92 pts (A4)
+Page rot:        0
+File size:       2618733 bytes
+Optimized:       no
+PDF version:     1.6

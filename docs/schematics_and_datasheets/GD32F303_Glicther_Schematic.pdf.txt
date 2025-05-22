@@ -1,0 +1,19 @@
+Title:           Print Schematic
+Author:          Carlos Ruiz
+Producer:        Microsoft: Print To PDF
+CreationDate:    Sat Mar  9 07:18:10 2024 MST
+ModDate:         Sat Mar  9 07:18:10 2024 MST
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           1
+Encrypted:       no
+Page size:       1224 x 792 pts
+Page rot:        0
+File size:       325875 bytes
+Optimized:       no
+PDF version:     1.7
